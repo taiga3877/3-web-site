@@ -1,0 +1,189 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.a{
+    margin: 0 auto;
+max-width: 1340px;
+}
+
+body{
+    background-color: white;
+}
+
+
+.q{
+    background-color: white;
+    padding: 12px;
+}
+
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    
+   
+}
+
+.s{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1220px;
+}
+
+
+.a{
+width: 1220px;
+margin: 0 auto;
+}
+
+
+
+
+.lol1{
+    display: flex;
+    min-width: 1340px;
+justify-content: space-evenly;
+}
+
+.lol{
+    background-color: white;
+    width: 30%;
+    height: 240px;
+margin: 40px;
+padding: 50px;
+border-radius: 4px;
+text-align: center;
+}
+
+
+.img1{
+    width: 350px;
+    height: 200px;
+}
+
+
+.h11{
+
+text-align: center;
+
+}
+
+
+.h33{
+    padding: 15px;
+    text-align: center;
+    font-size: 17px;
+}
+
+
+
+
+.h111{
+    padding: 15px;
+    text-align: center;
+    font-size: 15px;
+}
+
+
+
+
+.cont{
+    max-width: 1340px;
+    height: 400px;
+    display: flex;
+padding: 40px;
+margin: 40px;
+justify-content: space-evenly;
+align-items: center;
+margin: 0 auto;
+
+}
+
+
+
+.a1{
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    font-family: 'Mulish';
+    background-color: aliceblue;
+    border-radius: 4px;
+    border: 4px solid white;
+}
+
+
+.bottom{
+min-width: 1340px;
+height: 170px;
+display: flex;
+
+justify-content: center;
+}
+
+.ler{
+    border: 4px solid blue;
+    border-radius: 40px;
+    width: 200px;
+    height: 70px;
+    text-align: center;
+    font-size: 24px;
+    color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.c{
+    min-width: 1340px;
+    height: 400px;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.img1{
+    width: 28%%;
+    height: 350px;
+
+
+}
+
+
+
+.i1{
+    width: 320PX;
+    height: 200px;
+    margin: 10px;
+
+}
+
+
+
+.end{
+    max-width: 1440px;
+    height: 110px;
+    background-color: blue;
+    padding: 38px;
+
+}
+}
+
+
+
+
+
+
